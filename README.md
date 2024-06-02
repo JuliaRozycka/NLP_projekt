@@ -9,4 +9,4 @@ Raport dostępny jest pod plikiem o nazwie "Przetwarzanie Języka Naturalnego Pr
   * `NLP_BERT.pynb` to ostatni notatnik w całości poświęcony podejściu opartemu na transformatorach
     
 ## Dataset
-Dataset znajuje się w pliku `for_trainig_song_data.csv` i jest to autorski dataset (oparty o inne datasety) stowrzony na potrzebę tego projektu z 8 gatunkami muzycznymi
+Dataset znajuje się w pliku `for_trainig_song_data.csv` pod linkiem: [https://we.tl/t-3KOEQQVrup](https://we.tl/t-3KOEQQVrup) i jest to autorski dataset (oparty o inne datasety) stowrzony na potrzebę tego projektu z 8 gatunkami muzycznymi
